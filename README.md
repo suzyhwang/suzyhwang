@@ -3,8 +3,9 @@
 <head>
   </head>
   <body>
+  <center>
   <a><img src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
-
+    </center>
 </body>
 </html>
 
