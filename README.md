@@ -3,12 +3,7 @@
 <head>
   </head>
   <body>
-  <a><img src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png";
-  style="position:absolute;
-         left: 50%;
-         width: 20px;
-    height:20px;"></a>
-    
+  <a><img src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
 
 </body>
 </html>
