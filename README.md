@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![mari-head](https://user-images.githubusercontent.com/82765407/116031266-46eb5600-a698-11eb-9bae-961324c2cadd.png)
+
+
 <!--
 **suzyhwang/suzyhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
