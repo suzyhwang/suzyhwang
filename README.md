@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a><img url(https://user-images.githubusercontent.com/82765407/116031266-46eb5600-a698-11eb-9bae-961324c2cadd.png);
+<a><img src="https://user-images.githubusercontent.com/82765407/116031266-46eb5600-a698-11eb-9bae-961324c2cadd.png";
 style="width:20px; height:20px;"></a>
 
 
