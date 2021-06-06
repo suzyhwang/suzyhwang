@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+<head>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Hi,%20there!%20&fontSize=90&animation=fadeIn" />
 <style>
   .center {
   display: block;
@@ -7,9 +10,6 @@
   width: 50%;
 }
   </style>
-<head>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Hi,%20there!%20&fontSize=90&animation=fadeIn" />
-
   </head>
   <body>
   <center>
