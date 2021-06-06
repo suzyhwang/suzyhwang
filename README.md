@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=👋Hi,%20Suzy%20here!%20:)%20&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=👋%20%20Hi,%20Suzy%20here!%20:)%20&fontSize=40&animation=fadeIn" />
   </head>
   <body>
   <p align="center">
