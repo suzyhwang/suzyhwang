@@ -4,8 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=👋Hi,%20Suzy%20here!%20:)%20&fontSize=40&animation=fadeIn" />
   </head>
   <body>
-  <p align="center" fontcolor="pink">
-     :sparkling_heart: this is my cat -->
+  <p align="center">
   <a><img src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
 </body>
 </html>
