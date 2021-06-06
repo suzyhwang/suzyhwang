@@ -1,20 +1,12 @@
 <!DOCTYPE html>
 
 <head>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Hi,%20there!%20&fontSize=90&animation=fadeIn" />
-<style>
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-  </style>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋Hi,%20there!%20&fontSize=40&animation=fadeIn" />
   </head>
   <body>
-  <center>
-  <a><img class="center" src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
-    </center>
+  <p align="center">
+  <a><img src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
+    </p>
 </body>
 </html>
 
