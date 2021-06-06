@@ -1,11 +1,19 @@
 <!DOCTYPE html>
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  </style>
 <head>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Hi,%20there!%20&fontSize=90&animation=fadeIn" />
 
   </head>
   <body>
   <center>
-  <a><img src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
+  <a><img class="center" src="https://user-images.githubusercontent.com/82765407/116031869-8d8d8000-a699-11eb-9491-291842ccfa1b.png" width="100" height="100"/>
     </center>
 </body>
 </html>
